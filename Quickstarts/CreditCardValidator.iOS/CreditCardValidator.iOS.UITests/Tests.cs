@@ -22,9 +22,10 @@ namespace CreditCardValidator.iOS.UITests
 		[Test]
 		public void CreditCardNumber_TooShort_DisplayErrorMessage()
 		{
-			app.WaitForElement(c=>c.Class("UINavigationBar").Marked("Simple Credit Card Validator"));
-			app.EnterText(c=>c.Class("UITextField"), new string('9', 15));
-			app.Tap(c=>c.Marked("Validate Credit Card").Class("UIButton"));
+			app.WaitForElement(c => c.Class("UINavigationBar").Marked("Simple Credit Card Validator"));
+			app.EnterText(c => c.Class("UITextField"), new string('9', 15));
+			app.Tap(c => c.Marked("Validate Credit Card").Class("UIButton"));
+
 			app.WaitForElement(c => c.Marked("Credit card number is too short.").Class("UILabel"));
 		}
 	}
