@@ -1,0 +1,18 @@
+﻿<Properties StartupConfiguration="{123DF1F8-5307-4ECF-BCB6-941FA24B0AFC}|Default">
+  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug|iPhoneSimulator" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches>
+    <Watch file="../../../../../../FormsPaperScissors/.vs/Cases/433047/Defect_Files/Demo_B_App/Demo_B_App/Tests/TestsAndroid/Android_Regression_Tests.cs" line="27" offsetX="558" offsetY="286" expression="selectAfterDelete" liveUpdate="False" />
+    <Watch file="../../../../../../FormsPaperScissors/.vs/Cases/433047/Defect_Files/Demo_B_App/Demo_B_App/Tests/TestsAndroid/Android_Regression_Tests.cs" line="16" offsetX="522" offsetY="143" expression="selectFirst" liveUpdate="False" />
+    <Watch file="../../../../../../FormsPaperScissors/.vs/Cases/433047/Defect_Files/Demo_B_App/Demo_B_App/Tests/TestsAndroid/Android_Regression_Tests.cs" line="16" offsetX="522" offsetY="143" expression="selectFirst" liveUpdate="False" />
+    <Watch file="../../../../../../FormsPaperScissors/.vs/Cases/433047/Defect_Files/Demo_B_App/Demo_B_App/Tests/TestsAndroid/Android_Regression_Tests.cs" line="16" offsetX="546" offsetY="195" expression="adminUsers" liveUpdate="False" />
+    <Watch file="../../../../../../FormsPaperScissors/.vs/Cases/433047/Defect_Files/Demo_B_App/Demo_B_App/Tests/TestsAndroid/Android_Regression_Tests.cs" line="17" offsetX="534" offsetY="208" expression="allAccounts" liveUpdate="False" />
+    <Watch file="../../../../../../FormsPaperScissors/.vs/Cases/433047/Defect_Files/Demo_B_App/Demo_B_App/Infrastructure/DBConnect.cs" line="327" offsetX="624" offsetY="936" expression="Users" liveUpdate="False" />
+    <Watch file="../../../../../../FormsPaperScissors/.vs/Cases/433047/Defect_Files/Demo_B_App/Demo_B_App/Tests/TestsAndroid/Android_Regression_Tests.cs" line="29" offsetX="355" offsetY="364" expression="afterDel" liveUpdate="False" />
+  </MonoDevelop.Ide.DebuggingService.PinnedWatches>
+  <MonoDevelop.Ide.ItemProperties.CreditCardValidation.iOS PreferredExecutionTarget="MonoDevelop.IPhone.IPhoneSimulatorTarget.8A3B6262-031A-4D5A-8A71-B2136EE5B6B5" />
+  <MultiItemStartupConfigurations />
+</Properties>
