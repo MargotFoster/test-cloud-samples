@@ -1,5 +1,4 @@
 require 'fileutils'
-require 'rubygems'
 
 # Some utility functions
 def set(key, value)

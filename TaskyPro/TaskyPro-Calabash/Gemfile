@@ -1,5 +1,5 @@
-source 'https://rubygems.org'
-gem 'calabash-cucumber', '0.14.1'
-gem 'calabash-android', '0.5.8'
-gem 'xamarin-test-cloud', '1.1.1'
-gem 'rake'
+source "https://rubygems.org"
+gem "calabash-cucumber", ">= 0.21.4", "< 1.0"
+gem "calabash-android", ">= 0.9.2", "< 1.0"
+gem "xamarin-test-cloud", "~> 2.1"
+gem "rake", ">= 12.3"
